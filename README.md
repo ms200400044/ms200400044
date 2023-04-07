@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ata Ur Rehman
-- 👀 I’m interested in cyber security and data science
-- 🌱 I’m currently doing MS in Computer Sciences
+- 👀 I’m interested in Java development and system architecture
+- 🌱 I’m currently doing AWS certification
 - 📫 Reach me on twitter @Saljoki_78 or @Saljoki_1996
 
 <!---
